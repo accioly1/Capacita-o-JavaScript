@@ -1,7 +1,7 @@
-###Calculadora de IMC
-##Uma calculadora de IMC (Índice de Massa Corporal) desenvolvida com HTML, CSS e JavaScript puro. O projeto permite que o usuário insira seu peso e altura, e veja rapidamente o resultado do IMC com a respectiva classificação (ex: abaixo do peso, normal, sobrepeso, etc.).
+### Calculadora de IMC
+## Uma calculadora de IMC (Índice de Massa Corporal) desenvolvida com HTML, CSS e JavaScript puro. O projeto permite que o usuário insira seu peso e altura, e veja rapidamente o resultado do IMC com a respectiva classificação (ex: abaixo do peso, normal, sobrepeso, etc.).
 
-#🚀 Funcionalidades
+# 🚀 Funcionalidades
 
 - Inserção de peso e altura
 
@@ -11,7 +11,7 @@
 
 - Interface responsiva e amigável
 
-#💻 Tecnologias Utilizadas
+# 💻 Tecnologias Utilizadas
 
 HTML5 – estrutura da página
 
@@ -31,13 +31,19 @@ JavaScript – lógica de cálculo e interações
 
 
 
-#Como rodar 
+# Como rodar 
 
-Entre no terminal da sua máquina (WindowsPowerShell/CMD);
-Escolha o local que você deseja armazenar o projeto;
-Digite no terminal: (git clone https://github.com/accioly1/Capacita-o-JavaScript.git);
-O repositório sera clonado;
-Após essa etapa, digite no terminal: (code .);
-Pronto, abrirá sua IDE já com o projeto clonado;
-Para finalizar, utilize a extensão Live Server para visualizar a aplicação em tempo real.
+- Entre no terminal da sua máquina (WindowsPowerShell/CMD);
+
+- Escolha o local que você deseja armazenar o projeto;
+
+- Digite no terminal: (git clone https://github.com/accioly1/Capacita-o-JavaScript.git);
+
+- O repositório sera clonado;
+
+- Após essa etapa, digite no terminal: (code .);
+
+- Pronto, abrirá sua IDE já com o projeto clonado;
+
+- Para finalizar, utilize a extensão Live Server para visualizar a aplicação em tempo real.
 
